@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a bug report to help us improve Flatcar Container Linux.
 title: ''
-labels: "[Type: BUG]"
+labels: "Type/Bug"
 assignees: ''
 
 ---

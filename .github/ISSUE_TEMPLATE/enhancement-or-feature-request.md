@@ -2,7 +2,7 @@
 name: Enhancement or Feature request
 about: Suggest a new feature for Flatcar Container Linux
 title: ''
-labels: "[Type: Feature]"
+labels: "Type/Feature"
 assignees: ''
 
 ---
