@@ -24,5 +24,3 @@ assignees: ''
 **Additional information**
 [ Please Add any information that does not fit into any of the above sections here ]
 
-
-**[ Please add label(s) of the Flatcar Container Linux release channel(s) you would like the feature to become available for, e.g. [CHANNEL: Edge] ]**

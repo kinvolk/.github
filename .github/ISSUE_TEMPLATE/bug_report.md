@@ -30,4 +30,3 @@ assignees: ''
 **Additional information**
 Please add any information here that does not fit the above format.
 
-**[ Please also label this issue with the [CHANNEL: ...] label(s) of the Flatcar release channel(s) you encountered the bug with]**
