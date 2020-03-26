@@ -2,7 +2,7 @@
 name: A long-term / large feature request, aka roadmap item.
 about: Suggest a new roadmap item for Flatcar Container Linux
 title: ''
-labels: "Type/Roadmap"
+labels: "kind/roadmap"
 assignees: ''
 
 ---
