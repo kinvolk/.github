@@ -19,7 +19,7 @@ assignees: ''
 
 1. **Set-up**: [ describe the environment Flatcar was running in when encountering the bug; Platform etc. ]
 2. **Task**: [ describe the task the OS was performing when encountering the bug ]
-3.**Action(s)**: [ sequence of actions that triggered the bug, see example below ]
+3. **Action(s)**: [ sequence of actions that triggered the bug, see example below ]
   a. [ requested the start of a new pod or container ]
   b. [ container image downloaded ]
 4. **Error**: [describe the error that was triggered]
