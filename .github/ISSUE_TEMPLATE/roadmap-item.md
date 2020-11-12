@@ -1,6 +1,6 @@
 ---
 name: A long-term / large feature request, aka roadmap item.
-about: Suggest a new roadmap item for Flatcar Container Linux
+about: Suggest a new roadmap item
 title: ''
 labels: "kind/roadmap"
 assignees: ''
@@ -13,10 +13,8 @@ assignees: ''
 **Impact**
 [ Please describe the impact the lack of the item requested is creating ]
 
-
 **Implementation options**
 [ Optional: please provide one or more options for implementing the feature requested ]
-
 
 **Additional information**
 [ Please Add any information that does not fit into any of the above sections here ]

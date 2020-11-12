@@ -1,6 +1,6 @@
 ---
 name: New Package Request
-about: Propose inclusion of a new package into Flatcar Container Linux
+about: Propose inclusion of a new package or component
 title: 'New Package Request: [package-name]'
 labels: "kind/new-package"
 assignees: ''
@@ -8,13 +8,19 @@ assignees: ''
 ---
 
 **Package name and purpose**  
-[ Please briefly describe the new package. The description should be generic; please use the other sections below to elaborate on its role for Flatcar ]
+[ Please briefly describe the new package. The description should be generic; please use the other sections below to elaborate on its role for Flatcar or Lokomotive ]
+
+for Flatcar:
 
 - Package upstream repo: [ link to the package’s upstream repo ]
 - Gentoo ebuild: [ link to package’s Gentoo ebuild if exists ]
 
+for Lokomotive:
+
+- Link to the cloud native project
+
 **Impact of adding this package to the Flatcar OS image**  
-*Please consult the criteria for including new packages: https://github.com/flatcar-linux/Flatcar/blob/master/adding-new-packages.md*
+*Please consult the criteria for including new packages: https://github.com/kinvolk/Flatcar/blob/master/adding-new-packages.md*
 
 - The package improves on the following core values:
   - [ ] Secure by default
@@ -24,10 +30,10 @@ assignees: ''
 
 The package will increase the image size by: [estimated] MBytes.
 
-How might this package increase Flatcar’s attack surface:
+How might this package increase th attack surface:
 - [ e.g. new ports open, new services running, etc. ]
 
-**Benefits of adding this package to the Flatcar OS image**  
+**Benefits of adding this package**  
 [ Please provide the reasons for / benefits of adding this package ]
 
 **Additional information**  

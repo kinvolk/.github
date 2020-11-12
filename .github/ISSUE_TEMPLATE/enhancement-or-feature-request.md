@@ -1,6 +1,6 @@
 ---
 name: Enhancement or Feature request
-about: Suggest a new feature for Flatcar Container Linux
+about: Suggest a new feature
 title: ''
 labels: "kind/feature"
 assignees: ''
@@ -16,10 +16,8 @@ assignees: ''
 **Ideal future situation**
 [ Please describe the future situation after the improvement was implemented ]
 
-
 **Implementation options**
 [ Optional: please provide one or more options for implementing the feature requested ]
-
 
 **Additional information**
 [ Please Add any information that does not fit into any of the above sections here ]
